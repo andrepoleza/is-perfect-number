@@ -1,0 +1,26 @@
+{
+  "name": "is-perfect-number",
+  "version": "0.0.1",
+  "description": "Checks if a number is perfect",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrepoleza/is-perfect-number.git"
+  },
+  "keywords": [
+    "perfect",
+    "number"
+  ],
+  "bugs": {
+    "url": "https://github.com/andrepoleza/is-perfect-number/issues"
+  },
+  "homepage": "https://github.com/andrepoleza/is-perfect-number",
+  "author": "André Poleza",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
