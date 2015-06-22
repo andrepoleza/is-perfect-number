@@ -1,6 +1,6 @@
 {
   "name": "is-perfect-number",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Checks if a number is perfect",
   "main": "index.js",
   "scripts": {
