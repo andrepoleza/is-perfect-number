@@ -1,5 +1,7 @@
 # is-perfect-number
 
+[![Dependency Status](https://david-dm.org/andrepoleza/is-perfect-number.svg)](https://david-dm.org/andrepoleza/is-perfect-number)
+
 > Checks if a [number is perfect](https://en.wikipedia.org/wiki/Perfect_number).
 
 ## Install
