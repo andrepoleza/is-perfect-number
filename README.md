@@ -1,6 +1,6 @@
 # is-perfect-number
 
-[![npm version](https://badge.fury.io/js/church-encoding.svg)](http://badge.fury.io/js/is-perfect-number)
+[![npm version](https://badge.fury.io/js/is-perfect-number.svg)](http://badge.fury.io/js/is-perfect-number)
 [![Build Status](https://travis-ci.org/andrepoleza/is-perfect-number.svg?branch=master)](https://travis-ci.org/andrepoleza/is-perfect-number)
 [![Dependency Status](https://david-dm.org/andrepoleza/is-perfect-number.svg)](https://david-dm.org/andrepoleza/is-perfect-number)
 
